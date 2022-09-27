@@ -5,3 +5,5 @@
 ## [EPNM100 Lab Assignments and Course Module Information - VILT EDT 2022-SEP-26 to 29](https://docs.google.com/spreadsheets/d/1ybhJOx1jWu6fSx-Kkq0o1sp8SyKiWX2jXg4V0x0eYGs/edit?usp=sharing)
 
 ## [Cisco EPNM Helpful Links (Google Doc)](https://docs.google.com/document/d/1gm_KIseEG98EQN-WR70NbCklcF4yQnFGo2qEvXLdxeY/edit?usp=sharing)
+
+## [Mid Course Feedback EPNM100 VILT EDT 2022-SEP-26 to 29](https://forms.gle/xTgLex55W39tBwmy7)
