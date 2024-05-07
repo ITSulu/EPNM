@@ -6,6 +6,8 @@
 
 ## [Cisco EPNM Helpful Links (Google Doc)](https://docs.google.com/document/d/1gm_KIseEG98EQN-WR70NbCklcF4yQnFGo2qEvXLdxeY/edit?usp=sharing)
 
-<!--## [Mid Course Feedback EPNM100 Zimbabwe 2024-MAY-6 to 9](https://forms.gle/4YivwDwV2PaV6uxZ7)  --> 
+## [Mid Course Feedback EPNM100 Zimbabwe 2024-MAY-6 to 9](https://forms.gle/4YivwDwV2PaV6uxZ7)
+
+<!--  --> 
 
 
