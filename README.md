@@ -6,8 +6,8 @@
 
 ## [Cisco EPNM Helpful Links (Google Doc)](https://docs.google.com/document/d/1gm_KIseEG98EQN-WR70NbCklcF4yQnFGo2qEvXLdxeY/edit?usp=sharing)
 
-<!-- ## [Mid Course Feedback EPNM100 VILT CEST 2024-JUN-10 to 13](https://forms.gle/uBtxFAPTfZW3arFt9)
+ ## [Mid Course Feedback EPNM100 VILT CEST 2024-JUN-10 to 13](https://forms.gle/uBtxFAPTfZW3arFt9)
 
- --> 
+ <!-- --> 
 
 
